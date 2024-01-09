@@ -15,3 +15,8 @@ The data is available at the following URLs:
 - [2024-01-06-01-41-14_UMBRA-07_GEC](https://wtnv-lab.github.io/20240102_Noto_Earthquake_SAR_Umbra/2024-01-06-01-41-14_UMBRA-07_GEC/)
 - [2024-01-06-11-34-13_UMBRA-04_GEC](https://wtnv-lab.github.io/20240102_Noto_Earthquake_SAR_Umbra/2024-01-06-11-34-13_UMBRA-04_GEC/)
 - [2024-01-06-11-34-47_UMBRA-04_GEC](https://wtnv-lab.github.io/20240102_Noto_Earthquake_SAR_Umbra/2024-01-06-11-34-47_UMBRA-04_GEC/)
+
+Contact information:
+Professor Hidenori Watanave
+interfaculty initiative in information studies, The University of Tokyo
+hwtnv_at_iii.u-tokyo.ac.jp
