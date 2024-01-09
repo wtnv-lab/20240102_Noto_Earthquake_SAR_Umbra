@@ -2,7 +2,7 @@
 
 [SAR images released by Umbra](https://x.com/umbraspace/status/1743677139633717555?s=20) as a disaster response to the January 1, 2024 Noto Peninsula earthquake in Ishikawa, Japan. [Hidenori Watanave Laboratory at the University of Tokyo](https://labo.wtnv.jp/) created tilesets with MapTiler Engine.
 
-XYZ TileSet URL:
+XYZ TileSet URL (Cannot be opened directly):
 
 - https://wtnv-lab.github.io/20240102_Noto_Earthquake_SAR_Umbra/2024-01-06-00-17-46_UMBRA-06_GEC/{z}/{x}/{y}.png
 - https://wtnv-lab.github.io/20240102_Noto_Earthquake_SAR_Umbra/2024-01-06-00-25-02_UMBRA-05_GEC/{z}/{x}/{y}.png
