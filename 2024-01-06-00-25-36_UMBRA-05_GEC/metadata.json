@@ -1,0 +1,13 @@
+{
+  "name": "2024-01-06-00-25-36_UMBRA-05_GEC",
+  "version": "1.1.0",
+  "description": "",
+  "attribution": "<a href=\"https://www.maptiler.com/engine/\">Rendered with MapTiler Engine</a>",
+  "type": "overlay",
+  "format": "png",
+  "minzoom": "12",
+  "maxzoom": "18",
+  "scale": "1.000000",
+  "bounds": [136.84980005, 37.34968836, 136.91937675, 37.40520913],
+  "profile": "mercator"
+}
